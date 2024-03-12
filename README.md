@@ -1,8 +1,7 @@
 <a href="http://pervej0.web.app">
   <img src="https://i.ibb.co/hyJT1NH/git-Hub-masterhead.gif" alt="Md Pervej Hossain MasterHead" width="100%">
 </a>
-<h1 align="center">Hi There 👋, I'm Md Pervej</h1>
-<h3 align="center">Where There Is a Will, There Is a Way</h3>
+<h3 align="center">I deeply cherish the maxim: 'Where There Is a Will, There Is a Way.'</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pervej0&label=Profile%20views&color=0e75b6&style=flat" alt="pervej0" /> </p>
 
