@@ -1,5 +1,5 @@
 
-  <img src="https://i.ibb.co/fkkyzcd/Github-Banner.gif" alt="Md Pervej Hossain MasterHead" height="200" width="100%">
+  <img src="https://i.ibb.co/fkkyzcd/Github-Banner.gif" alt="Md Pervej Hossain MasterHead" width="100%">
   
 <h3 align="center">I deeply cherish the maxim: 'Where There Is a Will, There Is a Way.'</h3>
 
