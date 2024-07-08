@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mdpervejhossain0@gmail.com**
 
-- ⚙️ I refine my problem-solving skills in my spare time at [https://www.hackerrank.com/profile/Pervej0)
+- ⚙️ I refine my problem-solving skills in my spare time at [https://www.hackerrank.com/profile/Pervej0](https://www.hackerrank.com/profile/Pervej0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
